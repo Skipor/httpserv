@@ -1,7 +1,7 @@
 package main
 
 import (
-	. "./httpserv"
+	. "./fd"
 	"log"
 	sys "golang.org/x/sys/unix"
 	"net"
