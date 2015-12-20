@@ -1,0 +1,1 @@
+Simple golang static server using syscalls directly, without network frameworks and libs
